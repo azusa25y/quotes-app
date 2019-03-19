@@ -1,0 +1,140 @@
+.title{
+  font-family: 'Damion', cursive;
+  font-size: 35px;
+  color: black;  
+    
+}
+a{
+  font-family: 'Karla', sans-serif;
+
+}
+#home{
+   margin-left: 8%; 
+   color:black; 
+}
+
+
+.page-content{
+    margin-left: 6%;
+    font-family: 'Courier New'; 
+    font-size: 19px;
+}
+
+#everything{
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+    width: 85%; 
+    height: 18%; 
+    margin: 4%; 
+    font-size: 17px; 
+    box-shadow: 2px 3px 3px gray;
+    border: 2px;
+}
+#motivation{
+    background: linear-gradient(180deg, rgba(254,255,167,1) 0%, rgba(91,254,142,1) 100%);
+    width: 85%; 
+    height: 18%; 
+    margin: 4%; 
+    font-size: 17px;
+    box-shadow: 2px 3px 3px gray;
+}
+#success{
+    background: linear-gradient(180deg, rgba(254,255,189,1) 0%, rgba(254,247,91,1) 100%);
+    width: 85%; 
+    height: 18%;
+    margin: 4%; 
+    font-size: 17px;
+    box-shadow: 2px 3px 3px gray;
+}
+#love{
+    background-image: linear-gradient( 179.4deg,  rgba(253,240,233,1) 2.2%, rgba(255,194,203,1) 96.2% );
+    width: 85%; 
+    height: 18%;
+    margin: 4%; 
+    font-size: 17px;
+    box-shadow: 2px 3px 3px gray;
+}
+
+#lquotes{
+    color: white;
+    text-shadow: 1px 1px gray;
+    
+}
+#squotes{
+    text-shadow: 1px 1px gray;
+    
+}
+#box{
+    width:85%; 
+    height:45%;
+    margin:10px; 
+    padding:10px;
+/*  background-image: url("art.jpeg");*/
+    background-color:lightyellow;
+    box-shadow: 5px 5px 8px lightgray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+/*    padding-top: */
+} 
+#boxlove{
+    width:85%; 
+    height:45%;
+    margin:10px; 
+    padding:10px;  
+    background-image: url("love7.jpeg");
+    background-size: 120%;
+    background-position: center; 
+    background-color:lightyellow;
+    box-shadow: 5px 5px 8px lightgray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+/*    padding-top: */
+} 
+#boxsuccess{
+    width:85%; 
+    height:45%;
+    margin:10px; 
+    padding:10px;  
+    background-image: url("success5.jpeg");
+    background-size: 120%;
+    background-position: center; 
+    background-color:lightyellow;
+    box-shadow: 5px 5px 8px lightgray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+/*    padding-top: */
+} 
+#boxmot{
+    width:85%; 
+    height:45%;
+    margin:10px; 
+    padding:10px;  
+    background-image: url("love6.jpeg");
+    background-size: 120%;
+    background-position: center; 
+    background-color:lightyellow;
+    box-shadow: 5px 5px 8px lightgray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+/*    padding-top: */
+} 
+#boxevery{
+    width:85%; 
+    height:45%;
+    margin:10px; 
+    padding:10px;  
+    background-image: url("love.jpeg");
+    background-size: 120%;
+    background-position: center; 
+    background-color:lightyellow;
+    box-shadow: 5px 5px 8px lightgray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+/*    padding-top: */
+} 
+
+

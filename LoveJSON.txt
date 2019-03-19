@@ -1,0 +1,73 @@
+[
+    {
+        "FrontText": "Let us always meet each other with smile, for the smile is the beginning of love.  - Mother Teresa",
+        "Success": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.  - Abraham Lincoln",
+        "Motivation": "Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.  - Zig Ziglar",
+        "Every": "Don't cry because it's over, smile because it happened.  - Dr. Seuss"
+    
+    },
+    {
+        "FrontText": "There is only one happiness in this life, to love and be loved.  - George Sand",
+        "Success": "Try not to become a man of success. Rather become a man of value.  - Albert Einstein",
+         "Motivation": "Do one thing every day that scares you.  - Eleanor Roosevelt",
+          "Every": "Be yourself; everyone else is already taken.  - Oscar Wilde"
+    
+    },
+    {
+        "FrontText": "The greatest healing therapy is friendship and love.  - Hubert H. Humphrey",
+        "Success": "Success is getting what you want, happiness is wanting what you get.  - W.P. Kinsella",
+         "Motivation": "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.  - Paulo Coelho",
+          "Every": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.  - Albert Einstein"
+    
+    },
+    {
+        "FrontText" : "I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.  - Marilyn Monroe",
+        "Success": "Failure is the condiment that gives success its flavor.  - Truman Capote",
+         "Motivation": "What's meant to be will always find a way.  - Trisha Yearwood",
+          "Every": "You only live once, but if you do it right, once is enough.  - Mae West"
+
+
+    },
+    {
+        "FrontText" : "Love is the answer, and you know that for sure; Love is a flower, you've got to let it grow.  - John Lennon",
+        "Success": "Have no fear of perfection - you'll never reach it.  - Salvador Dalí",
+         "Motivation": "Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.  - Steve Maraboli",
+          "Every": "If you tell the truth, you don't have to remember anything.  - Mark Twain"
+    
+    },
+       {
+        "FrontText": "Immature love says: 'I love you because I need you.' Mature love says 'I need you because I love you.'  - Erich Fromm",
+        "Success": "Success is stumbling from failure to failure with no loss of enthusiasm.  - Winston S. Churchill",
+         "Motivation": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.  - Thomas Jefferson",
+          "Every": "If you tell the truth, you don't have to remember anything.  - Mark Twain"
+    
+    },
+    {
+        "FrontText": "A friend is someone who knows all about you and still loves you.  - Elbert Hubbard",
+        "Success": "The way to get started is to quit talking and begin doing.  - Walt Disney Company",
+        "Motivation": "Learn the rules like a pro, so you can break them like an artist.  - Pablo Picasso",
+         "Every": "To live is the rarest thing in the world. Most people exist, that is all.  - Oscar Wilde"
+    
+    },
+    {
+        "FrontText": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.  - Friedrich Nietzsche",
+        "Success": "Don't spend time beating on a wall, hoping to transform it into a door.  - Coco Chanel",
+        "Motivation": "And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye.  - Antoine de Saint-Exupéry",
+         "Every": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.  - Martin Luther King Jr."
+    
+    },
+    {
+        "FrontText" : "Love all, trust a few, do wrong to none.  - William Shakespeare",
+        "Success": "If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.  - Albert Einstein",
+        "Motivation": "The unexamined life is not worth living.  - Socrates",
+         "Every": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.  - Martin Luther King Jr."
+
+    },
+    {
+        "FrontText" : "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.  - Lao Tzu",
+        "Success": "All you need in this life is ignorance and confidence; then success is sure.  - Mark Twain",
+        "Motivation": "I dream my painting and I paint my dream.  - Vincent van Gogh",
+         "Every": "Good friends, good books, and a sleepy conscience: this is the ideal life.  - Mark Twain"
+    
+    }
+]
